@@ -1,3 +1,4 @@
 {
-  "mongoURI":"mongodb+srv://timlaxton123:timlaxton123@wfs.ewo5b.mongodb.net/wfs?retryWrites=true&w=majority"
+  "mongoURI":"mongodb+srv://timlaxton123:timlaxton123@wfs.ewo5b.mongodb.net/wfs?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
